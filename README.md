@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Rajath K Naik</h1>
 <h3 align="center">Aspiring Web developer from India</h3>
 
@@ -14,11 +13,12 @@
 
 - 📫 How to reach me **rajathkrishnamurthy173@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/RAJATH%20K%20NAIK/Downloads/Rajath_Resume.pdf](file:///C:/Users/RAJATH%20K%20NAIK/Downloads/Rajath_Resume.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CACVhTvHW8njF0YCvGngRo-EAtK37FtQ/view?usp=drivesdk](https://drive.google.com/file/d/1CACVhTvHW8njF0YCvGngRo-EAtK37FtQ/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajath-k-naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajath-k-naik" height="30" width="40" /></a>
+<a href="https://instagram.com/rajathknaik_arts06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajathknaik_arts06" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajathkrishnamu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajathkrishnamu1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajath_k_naik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajath_k_naik/" height="30" width="40" /></a>
 </p>
