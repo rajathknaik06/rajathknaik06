@@ -3,10 +3,6 @@
 
 ### A passionate Python developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajathknaik06&label=Profile views&color=0e75b6&style=flat" alt="rajathknaik06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajathknaik06" alt="rajathknaik06" /></a> </p>
-
 - 🔭 I'm currently working on  **Web Development Project**
 
 - 🌱 I'm currently learning **PYTHON-HTML-CSS-JAVA_SCRIPT-DEVOPS**
